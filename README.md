@@ -20,17 +20,22 @@ npm install
 node app.js
 ```
 
+## Run tests
+
+```sh
+npm run test
+```
+
 ## Author
 
 👤 **Pramisha C P**
 
-* Website: www.pramishacp.com
+* Website: https://www.linkedin.com/in/pramishacp/
 * Github: [@pramishacp](https://github.com/pramishacp)
 * LinkedIn: [@pramishacp](https://linkedin.com/in/pramishacp)
+* Stack Overflow: [@pramisha-c-p](https://stackoverflow.com/users/13022491/pramisha-c-p)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
